@@ -6,6 +6,8 @@ import Hero from "./Components/hero";
 import Nav from "./Components/Nav";
 import SideBar from "./Components/sideBar";
 
+//hello world
+
 function AppRoutes() {
     return (
         <BrowserRouter>
